@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Yuvraaj 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=;niri+%7C+CachyOS+btw;Coding+by+day%2C+rendering+by+night;Blender+%2B+Kdenlive+%2B+Terminal+aesthetics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=niri+%7C+CachyOS+btw;Coding+by+day%2C+rendering+by+night;Blender+%2B+Kdenlive+%2B+Terminal+aesthetics" alt="Typing SVG" />
 </p>
 
 ---
