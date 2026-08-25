@@ -1,32 +1,31 @@
 <h1 align="center">Hey there, I'm TheDarkhawk 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Riced+desktop+%3E+finished+assignment;niri+%7C+hyprland+%7C+CachyOS+enjoyer;Coding+by+day%2C+rendering+by+night;Blender+%2B+Kdenlive+%2B+Terminal+aesthetics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+SKIT+Jaipur;Ricing+Niri+%2F+Hyprland+like+it's+an+art+form;Blender+%7C+Kdenlive+%7C+Blockchain+tinkerer;Powered+by+CachyOS+%2B+too+much+chai" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iam-thedarkhawk&label=Profile%20Views&color=a855f7&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/iam-thedarkhawk?label=Followers&style=flat&color=blueviolet" alt="Followers" />
 </p>
 
 ---
 
 ### 🦅 About Me
 
-- 🎓 3rd year B.Tech CSE student, always tinkering with something
-- 🖥️ Currently ricing my **niri** / **hyprland** setup (again, for the 100th time)
-- 🎬 When not coding, I'm editing videos in **Kdenlive** or modeling in **Blender**
-- 🐧 Running **CachyOS** on an ASUS TUF A15 (Ryzen 7 + RTX 4050)
-- ⚡ Fun fact: my dotfiles have more commits than some of my actual projects
+- 🎓 3rd year B.Tech CSE student at **SKIT Jaipur**
+- 💻 Full-stack dev who also loves getting hands-on with **Blockchain**
+- 🎨 I don't just use Linux, I *rice* it — Niri & Hyprland setups on **CachyOS**
+- 🎬 When not coding: **Blender** renders and video edits in **Kdenlive**
+- ⚡ Daily driver: ASUS TUF A15 (Ryzen 7 7435HS + RTX 4050)
+- 📫 Reach me on the socials below!
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,linux,git,blender,figma&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Full%20Stack%20Dev-8A2BE2?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hyprland-00CED1?style=for-the-badge&logo=wayland&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Niri-1E90FF?style=for-the-badge&logo=wayland&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CachyOS-2E8B57?style=for-the-badge&logo=archlinux&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,nodejs,react,git,linux,blender" />
 </p>
 
 ---
@@ -39,19 +38,19 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-thedarkhawk&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=iam-thedarkhawk&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-thedarkhawk&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-thedarkhawk&theme=redical&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://x.com/darkhawk__" target="_blank">
+<p align="left">
+  <a href="https://twitter.com/darkhawk__" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://instagram.com/darkhawk_._" target="_blank">
@@ -60,12 +59,9 @@
   <a href="https://t.me/Iam_TheDarkhawk" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/Discord-the__darkhawk-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iam-thedarkhawk&style=for-the-badge&color=8A2BE2" alt="profile views" />
-</p>
-
-<p align="center"><i>⭐ From <a href="https://github.com/iam-thedarkhawk">iam-thedarkhawk</a> — thanks for stopping by!</i></p>
+<p align="center"><i>"Ship code, rice the desktop, repeat." 🚀</i></p>
